@@ -1,1 +1,1 @@
-# Amazon-Review-Summarization
+# Amazon-Reviews-Summarization
